@@ -1,7 +1,7 @@
 # Basic Web Development 1
 
-- Academiejaar: 
-- Opleiding: 
+- Academiejaar: 2025 - 2026
+- Opleiding: graduaat programeren
 - Klasgroep: 
-- Naam: 
+- Naam: Mathias Caglan
 
