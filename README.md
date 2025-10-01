@@ -1,1 +1,7 @@
-# BWD1-MathiasCaglan-2526
+# Basic Web Development 1
+
+- Academiejaar: 
+- Opleiding: 
+- Klasgroep: 
+- Naam: 
+
